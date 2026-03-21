@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2F2F2F&height=120&section=header" alt="Capa animada superior" width="1000" />
 </p> 
 
-# Análise de Desempenho de Lojas – Alura Store
+# Análise de Desempenho de Lojas
 
 Projeto de análise de dados voltado à tomada de decisão de negócio, com o objetivo de identificar qual unidade de uma rede de lojas apresenta o menor desempenho e deve ser vendida.
 
