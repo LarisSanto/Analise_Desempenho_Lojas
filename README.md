@@ -62,8 +62,12 @@ A análise permite:
 
 ### Conclusão
 
-Com base nos dados analisados, a Loja 4 apresenta o pior desempenho geral e é a principal candidata para venda.
+Com base nos dados analisados, a Loja 4 apresenta o pior desempenho geral e é a unidade com menor desempenho e, portanto, a principal candidata para venda.
 
+
+### Recomendação
+
+Recomenda-se a venda da Loja 4, permitindo concentrar recursos nas unidades com melhor desempenho, especialmente a Loja 3, que apresenta bom equilíbrio entre faturamento e satisfação dos clientes.
 
 
 ### Tecnologias Utilizadas
@@ -78,10 +82,10 @@ Com base nos dados analisados, a Loja 4 apresenta o pior desempenho geral e é a
 
 ### Acesse o Projeto
 
-Notebook:
-https://github.com/LarisSanto/Alura_Store/blob/main/Alura_Store_Larissa.ipynb  
+Projeto completo: 
+https://www.notion.so/An-lise-de-Desempenho-de-Lojas-2a7ae8705fee808097f4e880f0fa1b1c?source=copy_link
 
-Colab:
+Colab: 
 https://colab.research.google.com/drive/1XZ2RcDxkic45hIJcpC8D4FjDX47fYfXY  
 
 
