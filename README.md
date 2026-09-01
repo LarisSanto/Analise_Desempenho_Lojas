@@ -1,7 +1,3 @@
-<!-- Capa animada superior -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F2F2F&height=120&section=header" alt="Capa animada superior" width="1000" />
-</p> 
 
 # Análise de Desempenho de Lojas
 
@@ -93,8 +89,3 @@ https://colab.research.google.com/drive/1XZ2RcDxkic45hIJcpC8D4FjDX47fYfXY
 
 <br>
 <br>
-<!-- Capa animada inferior -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F2F2F&height=120&section=footer" alt="Capa animada inferior" width="1000" />
-</p>
-
